@@ -1,8 +1,9 @@
 title: Borja Gómez Solórzano # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a mathematician major in Computation and Statistics, with a Master in Signal Processing and Machine Learning, 
+  I'm a mathematician, major in Computation and Statistics, with a Master in Signal Processing and Machine Learning, 
   and a Master in Quantitative Finance. With strong programming skills in python, c++, java and sql. My work field is
-  algo trading. Working in <a href="https://www.darwinex.com">darwinex</a>
+  algo trading. Working in <br> 
+  <a href="https://www.darwinex.com">darwinex</a>
   <br><br>
   <a href="https://www.kaggle.com/borjagomezsolorzano">View My Kaggle Profile</a> 
   <br><br>
