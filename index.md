@@ -4,13 +4,13 @@
 
 ### Category Name 1 
 
-[Project 1 Title]
+[Project 1 Title](/sample_page)
 
 ---
-[Project 2 Title]
+[Project 2 Title](/pdf/final_project.pdf)
 
 ---
-[Project 3 Title]
+[Project 3 Title](http://example.com/)
 
 ---
 
