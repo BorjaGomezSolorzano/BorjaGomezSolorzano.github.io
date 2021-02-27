@@ -2,19 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Education 
 
-[Project 1 Title](/sample_page)
-
----
-[Project 2 Title](/pdf/final_project.pdf)
+[Bsc in Mathematics final degree dissertation](/pdf/TD.pdf)
 
 ---
-[Project 3 Title](http://example.com/)
+[Msc in Signal Theory and Communications final degree project](https://github.com/BorjaGomezSolorzano/deep-trader)
 
 ---
 
-### Category Name 2
+
+### Kaggle
 
 - [Project 1 Title]
 - [Project 2 Title]
